@@ -1,3 +1,10 @@
+Dependencies used are:
+  GetX - for route management
+  just_audio - for feature rich audio player
+  RxDart - combining streams
+
+
+
 # music_app
 
 A new Flutter project.
